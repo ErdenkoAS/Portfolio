@@ -1,0 +1,11 @@
+langchain-gigachat-lc1
+langchain
+langchain-community
+langchain-mcp-adapters
+mcp
+qdrant-client
+langchain-qdrant
+pypdf
+python-dotenv
+tqdm
+pandas

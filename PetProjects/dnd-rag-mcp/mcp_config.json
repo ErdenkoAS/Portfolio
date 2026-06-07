@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "qdrant-dnd": {
+      "command": "mcp-server-qdrant",
+      "args": [],
+      "env": {
+        "QDRANT_LOCAL_PATH": "/Users/alexandrerdenko/Desktop/ВШЭ/Учеба/Магистратура_ПМИ/1 курс/ИИ Агенты/hw_4/qdrant_storage",
+        "COLLECTION_NAME": "dnd_phb",
+        "FASTEMBED_MODEL_NAME": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2"
+      }
+    }
+  }
+}

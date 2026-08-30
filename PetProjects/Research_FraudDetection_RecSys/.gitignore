@@ -1,7 +1,22 @@
+# Данные (слишком большие для GitHub)
 data/raw/
 data/processed/
+
+# Jupyter checkpoints
 .ipynb_checkpoints/
 **/.ipynb_checkpoints/
+
+# macOS
 .DS_Store
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+
+# Модели (опционально — можно оставить)
+# models/*.pkl
+
+# Виртуальное окружение
+.env/
+venv/

@@ -1,0 +1,14 @@
+[
+  "tsl_log",
+  "cnt_1h",
+  "cnt_24h",
+  "cnt_7d",
+  "roll_mean_amt_10",
+  "roll_std_amt_10",
+  "amt_roll_z",
+  "tsl_merchant_log",
+  "tsl_category_log",
+  "roll_mean_tsl_10",
+  "tempo_ratio",
+  "txn_seq_num"
+]
